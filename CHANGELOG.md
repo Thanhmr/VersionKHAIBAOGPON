@@ -1,6 +1,6 @@
 # 📝 Lịch sử cập nhật
 
-## ✅ v2.2.0.6
+## ✅ v2.2.0.7
 - Thêm chức năng lệnh hiển thị loại module cho các OLT
 - Cập nhật dữ liệu Data TTVT lên link SharePoint
 - Tối ưu hiệu suất
