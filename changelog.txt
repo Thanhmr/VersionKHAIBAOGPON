@@ -1,3 +1,7 @@
+v2.2.0.8
+- Fix lỗi khai báo kênh TSLCD
+- Thêm chức năng lệnh hiển thị loại module OLT Mini ZTE
+
 v2.2.0.7
 - Thêm chức năng lệnh hiển thị loại module cho các OLT
 - Cập nhật dữ liệu Data TTVT lên link SharePoint
