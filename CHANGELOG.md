@@ -5,6 +5,10 @@
 (Bảo mật hệ thống, quản lý linh hoạt, vận hành tối ưu hơn)
 - Phân quyền truy cập thiết bị, khai báo OLT theo đơn vị
 - Tối ưu vận hành, bảo mật nâng cao
+
+ ## ✅ v2.2.0.8
+- Fix lỗi khai báo kênh TSLCD
+- Thêm chức năng lệnh hiển thị loại module OLT Mini ZTE
   
 ## ✅ v2.2.0.7
 - Thêm chức năng lệnh hiển thị loại module cho các OLT
