@@ -1,5 +1,11 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.0.0.0
+- Chuyển đổi mô hình Client/Server: 
+(Bảo mật hệ thống, quản lý linh hoạt, vận hành tối ưu hơn)
+- Phân quyền truy cập thiết bị, khai báo OLT theo đơn vị
+- Tối ưu vận hành, bảo mật nâng cao
+  
 ## ✅ v2.2.0.7
 - Thêm chức năng lệnh hiển thị loại module cho các OLT
 - Cập nhật dữ liệu Data TTVT lên link SharePoint
