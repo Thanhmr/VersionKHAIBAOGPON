@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+✅ v3.0.0.1
+- Cập nhật chức năng Bảo mật hệ thống server
+- Tinh chỉnh giao diện
+- Tối ưu hiệu suất
+
 ## ✅ v3.0.0.0
 - Chuyển đổi mô hình Client/Server: 
 (Bảo mật hệ thống, quản lý linh hoạt, vận hành tối ưu hơn)
