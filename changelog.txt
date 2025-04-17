@@ -1,4 +1,4 @@
-✅ v3.0.0.1
+v3.0.0.1
 - Cập nhật chức năng Bảo mật hệ thống server
 - Tinh chỉnh giao diện
 - Tối ưu hiệu suất
