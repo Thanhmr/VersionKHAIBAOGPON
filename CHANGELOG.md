@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+✅ v3.0.0.2
+- Bổ sung thiết bị OLT ZTE650 mới vào mạng.
+- Tinh chỉnh giao diện
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+  
 ✅ v3.0.0.1
 - Cập nhật chức năng Bảo mật hệ thống server
 - Tinh chỉnh giao diện
