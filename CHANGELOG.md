@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+✅ v3.0.0.3
+- Cập nhật tính năng khai chuyển cổng tự động (Dành cho OMC).
+- Tạo UI thân thiện người dùng
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+
 ✅ v3.0.0.2
 - Bổ sung thiết bị OLT ZTE650 mới vào mạng.
 - Tinh chỉnh giao diện
