@@ -1,9 +1,9 @@
 # 📝 Lịch sử cập nhật
 
 ✅ v3.0.0.3
-- Cập nhật tính năng khai chuyển cổng tự động (Dành cho OMC).
-- Tạo UI thân thiện người dùng
-- Tối ưu hiệu suất, sửa lỗi nhỏ.
+- Cập nhật tính năng mới khai chuyển cổng tự động (Dành cho OMC).
+- Giao diện “Chạy file lệnh tự động” đồng bộ với theme hiện tại (Dark/Light)
+- Tự động ghi toàn bộ nội dung lệnh ra file .log trong thư mục /logs
 
 ✅ v3.0.0.2
 - Bổ sung thiết bị OLT ZTE650 mới vào mạng.
