@@ -2,9 +2,9 @@
 
 ✅ v3.0.0.4
 - Cập nhật khai báo kênh MDR Đảng Ủy.
-- Tối ưu lại phần khai báo Kênh TSL
-- Kiểm tra Mac theo VLAN
-- 
+- Bổ sung thiết bị OLT mới
+- Tối ưu khai báo Kênh TSL, kiểm tra Mac theo VLAN
+  
 ✅ v3.0.0.3
 - Cập nhật tính năng mới khai chuyển cổng tự động (Dành cho OMC).
 - Giao diện “Chạy file lệnh tự động” đồng bộ với theme hiện tại (Dark/Light)
