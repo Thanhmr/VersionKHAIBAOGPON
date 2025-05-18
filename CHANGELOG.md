@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.0.0.5
+- Cập nhật khai báo Bridge XGSPON.
+- Bổ sung thiết bị OLT mới
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+  
 ## ✅ v3.0.0.4
 - Cập nhật khai báo kênh MDR Đảng Ủy.
 - Bổ sung thiết bị OLT mới
