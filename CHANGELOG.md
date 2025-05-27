@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.0.0.6
+- Bổ sung thiết bị OLT XGSPON.
+- Cập nhật module Quản lý thiết bị, quản lý kênh TSL
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+- 
 ## ✅ v3.0.0.5
 - Cập nhật khai báo Bridge XGSPON.
 - Bổ sung thiết bị OLT mới
