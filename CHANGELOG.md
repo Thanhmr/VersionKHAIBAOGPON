@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.0.0.8
+- Bổ sung thiết bị OLT XGSPON C610.
+- Cập nhật module Quản lý thiết bị OLT
+- Tối ưu hiệu suất, sửa lỗi nhỏ dành cho QTV.
+  
 ## ✅ v3.0.0.7
 - Bổ sung thiết bị OLT XGSPON C610.
 - Cập nhật module Quản lý thiết bị, quản lý kênh TSL
