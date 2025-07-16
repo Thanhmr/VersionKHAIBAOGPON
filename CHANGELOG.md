@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.0.0.10
+- Bổ sung thiết bị OLT mới.
+- Cập nhật module Quản lý Kênh MDR và HNTT
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+  
 ## ✅ v3.0.0.9
 - Bổ sung thiết bị OLT XGSPON C610.
 - Cập nhật module Quản lý thiết bị OLT
