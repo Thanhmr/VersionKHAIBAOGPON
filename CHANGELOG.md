@@ -1,8 +1,8 @@
 # 📝 Lịch sử cập nhật
 
 ## ✅ v3.0.0.12
-- Bổ sung thiết bị OLT mới.
-- Cập nhật module Quản lý Kênh MDR và HNTT
+- Sửa lỗi mất cấu hình modem XSGPON NOKIA
+- Mở quyền admin TTVT khai báo chuyển OLT tự động theo danh sách
 - Tối ưu hiệu suất, sửa lỗi nhỏ.
   
 ## ✅ v3.0.0.11
