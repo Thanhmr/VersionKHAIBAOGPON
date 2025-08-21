@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.0.0.13
+- Tối ưu File chạy lệnh tự động theo danh sách
+- Tắt tính năng thông báo khi đăng nhập OTP
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+  
 ## ✅ v3.0.0.12
 - Sửa lỗi mất cấu hình modem XSGPON NOKIA
 - Mở quyền admin TTVT khai báo chuyển OLT tự động theo danh sách
