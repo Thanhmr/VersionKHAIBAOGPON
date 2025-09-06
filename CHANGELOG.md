@@ -1,5 +1,12 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.0.0.14
+- **MAJOR:** Gộp KenhTSLRepository vào QuanLyKenhTSLForm để dễ quản lý
+- Tích hợp toàn bộ chức năng repository vào form management
+- Giải quyết lỗi do việc tách biệt file repository và form
+- Đơn giản hóa cấu trúc code, dễ bảo trì và phát triển
+- Cải thiện hiệu suất và giảm dependency complexity
+
 ## ✅ v3.0.0.13
 - Tối ưu File chạy lệnh tự động theo danh sách
 - Tắt tính năng thông báo khi đăng nhập OTP
