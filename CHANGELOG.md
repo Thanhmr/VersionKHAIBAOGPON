@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.0.0.14
+- Tối ưu phần khai báo Kênh TSL
+- Cập nhật CSDL Kênh TSL
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+- 
 ## ✅ v3.0.0.13
 - Tối ưu File chạy lệnh tự động theo danh sách
 - Tắt tính năng thông báo khi đăng nhập OTP
