@@ -1,5 +1,10 @@
 # 📝 Lịch sử cập nhật
 
+## ✅ v3.1.1.0
+- Cập nhật giao diện UI
+- Fix hiển thị KenhID, tối ưu tìm kiếm “contains” cho combobox khách hàng
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+- 
 ## ✅ v3.0.0.14
 - Tối ưu phần khai báo Kênh TSL
 - Cập nhật CSDL Kênh TSL
