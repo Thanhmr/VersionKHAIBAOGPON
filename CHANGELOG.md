@@ -1,8 +1,8 @@
 # 📝 Lịch sử cập nhật
 
-## ✅ v3.1.1.0
+## ✅ v3.1.0.0
 - Cập nhật giao diện UI
-- Fix hiển thị KenhID, tối ưu tìm kiếm “contains” cho combobox khách hàng
+- Fix hiển thị KenhID, tối ưu tìm kiếm “contains” cho Kênh khách hàng
 - Tối ưu hiệu suất, sửa lỗi nhỏ.
   
 ## ✅ v3.0.0.14
