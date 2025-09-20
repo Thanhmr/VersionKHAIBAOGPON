@@ -3,6 +3,11 @@ v3.1.0.1
 - Fix hiển thị KenhID, tối ưu csdl Kênh TSL
 - Tối ưu hiệu suất, sửa lỗi nhỏ.
 
+v3.1.0.0
+- Cập nhật giao diện UI
+- Fix hiển thị KenhID, tối ưu csdl Kênh TSL
+- Tối ưu hiệu suất, sửa lỗi nhỏ.
+
 v3.0.0.14
 - Tối ưu phần khai báo Kênh TSL
 - Cập nhật CSDL Kênh TSL
