@@ -1,6 +1,6 @@
 # 📝 Lịch sử cập nhật
 
-## ✅ v3.1.0.1
+## ✅ v3.1.1.0
 - Cập nhật giao diện UI
 - Fix hiển thị KenhID, tối ưu csdl Kênh TSL
 - Tối ưu hiệu suất, sửa lỗi nhỏ.
